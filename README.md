@@ -121,5 +121,7 @@ The study also found that accidents are mostly likely to happen in Urban areas a
 recommend us to work more on improving infrastructure such as pavement of roads, 
 offering better driving lessons to help reduce the count of accidents. 
 Future research in this area can help us to identify the accident patterns in specific areas 
+![Snapshot of Neural Network of accidents May 7, 2025 at 12 40 37 PM](https://github.com/user-attachments/assets/7d32770f-1678-446e-b215-69bf0ef87f13)
+
 
 
