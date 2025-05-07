@@ -19,5 +19,11 @@ like weather, design and how people drive cars. The goal of this project is to l
 different things such as rain or traffic fines affect accidents as it is not clear what exactly 
 influences the number of accidents majorly. Understanding which things really cause 
 accidents can help make better safety rules, as the factors might not have the same impact 
-in the cities compared to the countrysid
+in the cities compared to the countryside.
+
+## DATA RESOURCE: 
+Dataset: Kaggle 
+<a> href"https://www.kaggle.com/datasets/torresdanilo/key-factors-influencing-traffic-accidents" Key Factors Influencing Accidents</a>
+
+
 
