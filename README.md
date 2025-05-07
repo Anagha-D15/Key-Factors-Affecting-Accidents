@@ -49,6 +49,9 @@ observation.
 • Time of Day: Using a 24-hour clock ranging from 0-24 to track the accidents across 
 the time of day.
 
+## TABLEAU DASHBOARD:
+  
+
 ## TABLEAU INTERPRETATION 
 • Urban areas have more accidents, especially during peak hours. 
 • High traffic density and poor pavement increase accident risk. 
