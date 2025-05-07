@@ -52,6 +52,11 @@ the time of day.
 ## TABLEAU DASHBOARD:
   <a href="https://github.com/Anagha-D15/Key-Factors-Affecting-Accidents/blob/main/Dashboard%20Visualisation.twbx"> Tableau Dashboard</a>
 
+  ![Tableau Dashboard 1](https://github.com/user-attachments/assets/761c74ca-8652-42be-bec6-c982b963f937)
+  ![Tableau Dashboard 2](https://github.com/user-attachments/assets/a1624d5a-9675-4d98-8153-b5c998e87293)
+
+
+
 ## TABLEAU INTERPRETATION 
 • Urban areas have more accidents, especially during peak hours. 
 • High traffic density and poor pavement increase accident risk. 
